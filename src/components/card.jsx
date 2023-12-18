@@ -230,7 +230,7 @@ export default function card() {
         </div>
       </div>
 
-      <div className="flex  items-center md:w-[46.625rem]  mx-auto">
+      <div className="flex  items-center md:w-[46.625rem] pl-[1rem] mx-auto">
         <div className="leading-[0.908rem] mt-[3.125rem] mb-[17.75rem] text-[#000000]">
           <h1 className="pb-[1.5rem] "> See prototype:</h1>
           <Link
